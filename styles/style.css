@@ -18,6 +18,7 @@
     --Color-Black: #000000;
     --Color-Background-header-footer: #5300C8;
     --Color-border: #03318C;
+    --Color-border-hover: #174cb6;
     --Color-item: #5D04D9;
 }
 
@@ -94,6 +95,7 @@
     display: flex;
     justify-content: space-between;
     font-weight: var(--Medium);
+    cursor: pointer;
 }
 
 .main-add-form button{
@@ -110,8 +112,16 @@
     color: var(--Color-White);
 }
 
+.buttons-1:hover{
+    background-color: var(--Color-border-hover);
+}
+
 .buttons-2{
     color: var(--Color-border);
+}
+
+.buttons-2:hover{
+    background-color: var(--Color-Gray);
 }
 
     /*Section: Mis productos*/
