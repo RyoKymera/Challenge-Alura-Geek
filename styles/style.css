@@ -136,9 +136,10 @@
     font-size: 15px;
 }
 
-.main-products-items li{
+.main-products-style{
     width: 12.25rem;
     height: 16.125rem;
+    overflow: hidden;
     background-color: var(--Color-item);
     color: var(--Color-White);
     border: 2px solid var(--Color-Black);
@@ -148,7 +149,9 @@
 
 .main-products-image{
     width: 11rem;
-    height: auto;
+    height: 10.875rem;
+    border-radius: 15px;
+    object-fit: cover;
     padding: 0.625rem;
 }
 
@@ -167,6 +170,10 @@
 .text-price img{
     height: 1.25rem;
     width: auto;
+}
+
+.Delete-Button{
+    cursor: pointer;
 }
 
 /*Footer*/

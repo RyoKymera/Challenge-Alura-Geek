@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "name": "Tomioka",
+      "price": "25",
+      "image": "https://i.pinimg.com/736x/5d/44/1e/5d441e34ab85edc33c8805d2301ffff8.jpg",
+      "id": 1
+    },
+    {
+      "name": "Sukuna",
+      "price": "45",
+      "image": "https://cdnx.jumpseller.com/the-geek-shop/image/41216432/GSC-figura-DE-ACCI-N-DE-NENDOROID-Sukuna-juguete-Original-de-jujutsukaisen-regalo-para-ni-os.png?1701383836",
+      "id": 2
+    },
+    {
+      "name": "Dart Vader",
+      "price": "30",
+      "image": "https://toogeek.co/wp-content/uploads/2024/06/Funko.jpg",
+      "id": 3
+    },
+    {
+      "name": "Link",
+      "price": "45",
+      "image": "https://i.pinimg.com/736x/3b/e9/88/3be9888d1b86ae6c3cfe4daea995bfa5.jpg",
+      "id": 4
+    },
+    {
+      "name": "Zelda",
+      "price": "50",
+      "image": "https://i.pinimg.com/736x/ed/c1/90/edc190a2addb9603139698f9f58ab637.jpg",
+      "id": 5
+    },
+    {
+      "name": "Charizard",
+      "price": "30",
+      "image": "https://i.pinimg.com/736x/91/2c/20/912c20e7ad26c4a45ebe776b94685a64.jpg",
+      "id": 6
+    },
+    {
+      "name": "Figura Pokémon",
+      "price": "45",
+      "image": "https://i.pinimg.com/736x/9d/16/be/9d16be9410cabf4405adc264f0061e34.jpg",
+      "id": 7
+    },
+    {
+      "name": "Madara",
+      "price": "50",
+      "image": "https://i.pinimg.com/736x/3f/fa/e9/3ffae9818c7e2611b40d1fc9815e2a37.jpg",
+      "id": 8
+    },
+    {
+      "name": "Luffy",
+      "price": "60",
+      "image": "https://i.pinimg.com/736x/9f/e7/83/9fe783e200c94642631d3450d8c4d789.jpg",
+      "id": 9
+    },
+    {
+      "name": "Crash",
+      "price": "22",
+      "image": "https://i.pinimg.com/736x/61/e4/e2/61e4e283bbfd6442ff2270ec61ccc65b.jpg",
+      "id": 10
+    },
+    {
+      "name": "Inuyasha",
+      "price": "43",
+      "image": "https://i.pinimg.com/736x/5d/fb/e1/5dfbe11f7d1142332d650c92a95c48b1.jpg",
+      "id": 11
+    },
+    {
+      "name": "Mario",
+      "price": "36",
+      "image": "https://i.pinimg.com/736x/a6/86/68/a6866837feb15b69c325e46afd0b1ac8.jpg",
+      "id": 12
+    }
+  ]
+}
