@@ -211,7 +211,7 @@
     .main-products-items{
         padding: 1rem;
         margin-top: 2rem;
-        width: 47.375rem;
+        width: auto;
         height: 50rem;
         flex-flow: wrap;
         overflow-y: scroll;
